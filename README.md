@@ -5,7 +5,7 @@ and Javascript ecosystems. I love diving into new technologies and am a big
 proponent of always reading the docs.
 
 I come from a background in philosophy and formal logic and have always loved
-solving puzzles. Last year, I solved all days of [Advent of Code] 2024, which
+solving puzzles. Last year, I solved all days of [Advent of Code](https://adventofcode.com/2024/about) 2024, which
 I'm pretty proud of. You can see my solutions
 [here](https://github.com/dchae/Advent_of_Code).
 
