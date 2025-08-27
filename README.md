@@ -37,7 +37,7 @@ Bedrock, RDS, DynamoDB)
 | Application Development | React, Next.js, Astro, Node.js, Express, Sinatra, Flask, REST APIs, OOP                           |
 | Data & Storage          | PostgreSQL, pgvector, Pinecone, MongoDB, DynamoDB                                                 |
 | Cloud Platforms         | AWS (Lambda, EC2, S3, SQS, API Gateway, ELB, IAM, Bedrock, RDS, CloudFront), DigitalOcean, Heroku |
-| DevOps & Tools          | Git, GitHub, Docker, NGINX, Terraform, Jest, Postman, HTTP, Webhooks, Linux, LangChain, LangGraph |
+| DevOps & Tools          | Git, GitHub, Docker, NGINX, Terraform, Jest, Postman, HTTP, Webhooks, Unix, LangChain, LangGraph |
 
 ## 📫 How to Reach Me
 
