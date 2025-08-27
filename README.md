@@ -20,14 +20,14 @@ audio, and video queries.
 PostgreSQL, pgvector, Astro, AWS (Lambda, EC2, S3, SQS, API Gateway, ELB, IAM,
 Bedrock, RDS, DynamoDB)
 
+📖 [Read the Kubrick Case Study](https://kubrick-ai.com/case-study/intro/)
+
 ## ⚡ Fun Facts About Me
 
 - I used to play Overwatch competitively (former Top 500 NA, Top 40 Open
   Division).
 - I love to paint in my free time.
 - I own more than 12 mechanical keyboards.
-
-📖 [Read the Kubrick Case Study](https://kubrick-ai.com/case-study/intro/)
 
 ## 🛠️ Technologies and Tools
 
