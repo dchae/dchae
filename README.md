@@ -9,7 +9,7 @@ solving puzzles. Last year, I solved all days of [Advent of Code](https://advent
 I'm pretty proud of. You can see my solutions
 [here](https://github.com/dchae/Advent_of_Code).
 
-## 👁️‍🗨️ Kubrick
+## Kubrick
 
 Recently, I built [Kubrick](https://kubrick-ai.com/), an open-source deployable
 ingestion pipeline and API for multimodal semantic search over video, enabling
@@ -22,14 +22,14 @@ Bedrock, RDS, DynamoDB)
 
 📖 [Read the Kubrick Case Study](https://kubrick-ai.com/case-study/intro/)
 
-## ⚡ Fun Facts About Me
+## Fun Facts About Me
 
 - I used to play Overwatch competitively (former Top 500 NA, Top 40 Open
   Division).
 - I love to paint in my free time.
 - I own more than 12 mechanical keyboards.
 
-## 🛠️ Technologies and Tools
+## Technologies and Tools
 
 | Category                | Technologies                                                                                      |
 | ----------------------- | ------------------------------------------------------------------------------------------------- |
